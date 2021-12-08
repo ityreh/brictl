@@ -1,0 +1,26 @@
+<annotation>
+	<folder>generated</folder>
+	<filename>stormtrooper.jpg</filename>
+	<path>/home/main/repo/ityreh/brictl/data/generated/stormtrooper.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stormtrooper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1399</xmin>
+			<ymin>670</ymin>
+			<xmax>2274</xmax>
+			<ymax>2083</ymax>
+		</bndbox>
+	</object>
+</annotation>
